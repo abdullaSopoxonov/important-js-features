@@ -119,6 +119,8 @@ document.appendChild(h1)
 // git branch
 // git branch -M main
 // git status
+// git config --global user.email "you@example.com"
+// git config --global user.name "Your Name"
 // git add .
 // git commit -m "text"
 // git push origin <branch-name>
